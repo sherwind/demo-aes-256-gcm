@@ -1,0 +1,1 @@
+requires 'Crypt::AuthEnc::GCM';
